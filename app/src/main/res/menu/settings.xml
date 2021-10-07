@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/smartULSUAuth"
+        android:title="@string/auth_with_smartulsu" />
+    <item
+        android:id="@+id/vkAuth"
+        android:title="@string/login_in_vk" />
+    <item
+        android:id="@+id/logOut"
+        android:title="@string/logout" />
+</menu>

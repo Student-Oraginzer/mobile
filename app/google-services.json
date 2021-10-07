@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362664059669",
+    "project_id": "student-organizer-dd6be",
+    "storage_bucket": "student-organizer-dd6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362664059669:android:5fa09ea0a8e350ae4e7f1c",
+        "android_client_info": {
+          "package_name": "ru.ulsu.moais.studnetorganizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362664059669-if13v93p6q8vtts32qluv9uprhb6irp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.ulsu.moais.studnetorganizer",
+            "certificate_hash": "0793262f8a38fc1f2a2d6ad12b783989cc3ba3dd"
+          }
+        },
+        {
+          "client_id": "362664059669-brd17cm29e6mko8guj0utv0noff5hmir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpf5sAuNrGiiT6gXjZadZg8E3prfYs2qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362664059669-brd17cm29e6mko8guj0utv0noff5hmir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Органайзер студента</string>
+    <string name="sign_in_with_phone">Войти с номером телефона</string>
+    <string name="sign_in_with_google">Войти с аккаунтом Google</string>
+    <string name="phone_auth">Авторизация через номер телефона</string>
+    <string name="sign_in">Войти</string>
+    <string name="sms_quota">Квота смс превышена, повтори попытку чуть позже</string>
+    <string name="phone_error">Твой номер телефона не должен быть пуст и должен начинаться с +7</string>
+    <string name="phone_wrong">Неправильный номер</string>
+    <string name="timetable">Расписание</string>
+    <string name="settings">Настройки</string>
+    <string name="auth_with_smartulsu">Подключть SmartULSU</string>
+    <string name="login_in_vk">Подключить VK</string>
+    <string name="logout">Выйти из аккаунта</string>
+    <string name="hello">Привет</string>
+    <string name="next">Дальше</string>
+    <string name="accounts_pair">"Подключи аккаунты SmartULSU и VK чтобы увидеть больше информации"</string>
+    <string name="weather_format">"%s°C %s"</string>
+</resources>
